@@ -4,3 +4,12 @@ https://github.com/avnyadav/machine_learning_project
 github login
 username : VinayakDevalapur
 Password : 7849076051v
+
+##To create Virtual Environment##
+
+python -m venv env (THis will create a folder env)
+
+##To Activate virtual environment##
+
+env\Scripts\activate
+
